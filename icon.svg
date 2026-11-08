@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="WorkBuddy daily credits">
+	<defs>
+		<linearGradient id="wbdc-body" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" stop-color="#5ac8fa" />
+			<stop offset="1" stop-color="#2f7de1" />
+		</linearGradient>
+		<linearGradient id="wbdc-coin" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" stop-color="#ffe08a" />
+			<stop offset="1" stop-color="#f0a93b" />
+		</linearGradient>
+	</defs>
+	<circle cx="32" cy="32" r="30" fill="#0f1420" />
+	<path d="M14 38c0-9 8-16 18-16s18 7 18 16c0 9-8 16-18 16S14 47 14 38z" fill="url(#wbdc-body)" />
+	<path d="M50 38l8-7v14l-8-7z" fill="#8ad3ff" />
+	<circle cx="26" cy="34" r="3" fill="#0f1420" />
+	<path d="M32 30c3 0 5 2 5 4" stroke="#0f1420" stroke-width="2" stroke-linecap="round" fill="none" />
+	<circle cx="44" cy="20" r="9" fill="url(#wbdc-coin)" />
+	<path d="M44 14v12M41 17h5.5a2.5 2.5 0 010 5H41h5.5a2.5 2.5 0 010 5H41" stroke="#7a4a10" stroke-width="2" stroke-linecap="round" fill="none" />
+</svg>
