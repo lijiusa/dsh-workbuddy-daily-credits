@@ -1,0 +1,4 @@
+- insert:
+    - id: workbuddy-daily-credits
+      name: 'dsh-workbuddy-daily-credits'
+      config: {}
